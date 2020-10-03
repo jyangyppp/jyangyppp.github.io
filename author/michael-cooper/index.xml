@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael Cooper | Wenhao Yang</title>
+    <link>/author/michael-cooper/</link>
+      <atom:link href="/author/michael-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael Cooper</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Michael Cooper</title>
+      <link>/author/michael-cooper/</link>
+    </image>
+    
+    <item>
+      <title>RQ Innovative Efficiency and Firm Value</title>
+      <link>/talk/9/</link>
+      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/talk/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Persistence of Fee Dispersion among Mutual Funds</title>
+      <link>/talk/8/</link>
+      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/talk/8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
