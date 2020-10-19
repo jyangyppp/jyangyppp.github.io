@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Wenhao Yang&#39;s Profile</title>
+    <link>/project/</link>
+      <atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>/project/</link>
+    </image>
+    
+    <item>
+      <title>If You Own Everything, Why Merge? </title>
+      <link>/project/1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Fees Are Great, if You Actually Get Them</title>
+      <link>/project/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Funds Milk Investors, CFA Says</title>
+      <link>/project/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similar Mutual Funds–but Very Different Fees</title>
+      <link>/project/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,46 +1,46 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks | Wenhao Yang</title>
-    <link>https://jyangyppp.github.io/talk2/</link>
-      <atom:link href="https://jyangyppp.github.io/talk2/index.xml" rel="self" type="application/rss+xml" />
+    <title>Recent &amp; Upcoming Talks | Wenhao Yang&#39;s Profile</title>
+    <link>/talk2/</link>
+      <atom:link href="/talk2/index.xml" rel="self" type="application/rss+xml" />
     <description>Recent &amp; Upcoming Talks</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Wed, 13 Nov 2019 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jyangyppp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://jyangyppp.github.io/talk2/</link>
+      <link>/talk2/</link>
     </image>
     
     <item>
       <title>Bloomberg, November 13, 2019 , “If You Own Everything, Why Merge?,” Matt Levine</title>
-      <link>https://jyangyppp.github.io/talk2/1/</link>
+      <link>/talk2/1/</link>
       <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/1/</guid>
+      <guid>/talk2/1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The New York Times, July 14, 2017, “Lower Fees Are Great, if You Actually Get Them,” M.P. Dunleavey</title>
-      <link>https://jyangyppp.github.io/talk2/2/</link>
+      <link>/talk2/2/</link>
       <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/2/</guid>
+      <guid>/talk2/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barron’s, December 8, 2016, “Mutual Funds Milk Investors, CFA Says”</title>
-      <link>https://jyangyppp.github.io/talk2/4/</link>
+      <link>/talk2/4/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/4/</guid>
+      <guid>/talk2/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wall Street Journal, December 4, 2016, “Similar Mutual Funds–but Very Different Fees,” Micah Hauptman</title>
-      <link>https://jyangyppp.github.io/talk2/3/</link>
+      <link>/talk2/3/</link>
       <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/3/</guid>
+      <guid>/talk2/3/</guid>
       <description></description>
     </item>
     

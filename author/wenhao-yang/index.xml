@@ -1,70 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wenhao Yang</title>
-    <link>https://jyangyppp.github.io/author/wenhao-yang/</link>
-      <atom:link href="https://jyangyppp.github.io/author/wenhao-yang/index.xml" rel="self" type="application/rss+xml" />
+    <title>Wenhao Yang | Wenhao Yang&#39;s Profile</title>
+    <link>/author/wenhao-yang/</link>
+      <atom:link href="/author/wenhao-yang/index.xml" rel="self" type="application/rss+xml" />
     <description>Wenhao Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Mon, 19 Oct 2020 23:10:11 +0800</lastBuildDate>
     <image>
-      <url>https://jyangyppp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Wenhao Yang</title>
-      <link>https://jyangyppp.github.io/author/wenhao-yang/</link>
+      <link>/author/wenhao-yang/</link>
     </image>
     
     <item>
-      <title>RQ Innovative Efficiency and Firm Value</title>
-      <link>https://jyangyppp.github.io/talk/9/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Imperfect Foresight on Asset Prices and Allocations</title>
-      <link>https://jyangyppp.github.io/talk/2/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Costly Information Acquisition in Decentralized Markets: An Experiment</title>
-      <link>https://jyangyppp.github.io/talk/7/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/7/</guid>
+      <link>/post/4/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Institutional Co-Ownership and Competition in Mergers and Acquisitions</title>
-      <link>https://jyangyppp.github.io/talk/6/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/6/</guid>
+      <link>/post/5/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Private Equity Funds and Firm Products</title>
-      <link>https://jyangyppp.github.io/talk/5/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/5/</guid>
+      <link>/post/7/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Imperfect Foresight on Asset Prices and Allocations</title>
+      <link>/post/3/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Persistence of Fee Dispersion among Mutual Funds</title>
-      <link>https://jyangyppp.github.io/talk/8/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Mutual Fund Management: Does Active Management Pay?</title>
-      <link>https://jyangyppp.github.io/talk/1/</link>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/1/</guid>
+      <link>/post/8/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/8/</guid>
       <description></description>
     </item>
     

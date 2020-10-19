@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Wenhao Yang&#39;s Profile</title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Mon, 19 Oct 2020 23:10:11 +0800</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
+    
+    <item>
+      <title>Costly Information Acquisition in Decentralized Markets: An Experiment</title>
+      <link>/post/4/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Institutional Co-Ownership and Competition in Mergers and Acquisitions</title>
+      <link>/post/5/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Measuring (In)Attention to Mutual Fund Fees: Evidence from Experiments</title>
+      <link>/post/6/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Fund Management: Does Active Management Pay?</title>
+      <link>/post/9/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Equity Funds and Firm Products</title>
+      <link>/post/7/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Imperfect Foresight on Asset Prices and Allocations</title>
+      <link>/post/3/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Persistence of Fee Dispersion among Mutual Funds</title>
+      <link>/post/8/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humans in Charge of Trading Robots: The First Experiment</title>
+      <link>/post/1/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:40 +0800</pubDate>
+      <guid>/post/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RQ Innovative Efficiency and Firm Value</title>
+      <link>/post/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

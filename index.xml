@@ -1,118 +1,150 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wenhao Yang</title>
-    <link>https://jyangyppp.github.io/</link>
-      <atom:link href="https://jyangyppp.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <description>Wenhao Yang</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <title>Wenhao Yang&#39;s Profile</title>
+    <link>/</link>
+      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenhao Yang&#39;s Profile</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Mon, 19 Oct 2020 23:10:11 +0800</lastBuildDate>
     <image>
-      <url>https://jyangyppp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
-      <title>Wenhao Yang</title>
-      <link>https://jyangyppp.github.io/</link>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Wenhao Yang&#39;s Profile</title>
+      <link>/</link>
     </image>
     
     <item>
-      <title>Humans in Charge of Trading Robots: The First Experiment</title>
-      <link>https://jyangyppp.github.io/talk/4/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/4/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>RQ Innovative Efficiency and Firm Value</title>
-      <link>https://jyangyppp.github.io/talk/9/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Impact of Imperfect Foresight on Asset Prices and Allocations</title>
-      <link>https://jyangyppp.github.io/talk/2/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bloomberg, November 13, 2019 , “If You Own Everything, Why Merge?,” Matt Levine</title>
-      <link>https://jyangyppp.github.io/talk2/1/</link>
-      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/1/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Costly Information Acquisition in Decentralized Markets: An Experiment</title>
-      <link>https://jyangyppp.github.io/talk/7/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/7/</guid>
+      <link>/post/4/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Institutional Co-Ownership and Competition in Mergers and Acquisitions</title>
-      <link>https://jyangyppp.github.io/talk/6/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/6/</guid>
+      <link>/post/5/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Measuring (In)Attention to Mutual Fund Fees: Evidence from Experiments</title>
-      <link>https://jyangyppp.github.io/talk/3/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Private Equity Funds and Firm Products</title>
-      <link>https://jyangyppp.github.io/talk/5/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/5/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The Persistence of Fee Dispersion among Mutual Funds</title>
-      <link>https://jyangyppp.github.io/talk/8/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The New York Times, July 14, 2017, “Lower Fees Are Great, if You Actually Get Them,” M.P. Dunleavey</title>
-      <link>https://jyangyppp.github.io/talk2/2/</link>
-      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/2/</guid>
+      <link>/post/6/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mutual Fund Management: Does Active Management Pay?</title>
-      <link>https://jyangyppp.github.io/talk/1/</link>
-      <pubDate>Mon, 03 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/1/</guid>
+      <link>/post/9/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Private Equity Funds and Firm Products</title>
+      <link>/post/7/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Imperfect Foresight on Asset Prices and Allocations</title>
+      <link>/post/3/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Persistence of Fee Dispersion among Mutual Funds</title>
+      <link>/post/8/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bloomberg, November 13, 2019 , “If You Own Everything, Why Merge?,” Matt Levine</title>
+      <link>/talk2/1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/talk2/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>If You Own Everything, Why Merge? </title>
+      <link>/project/1/</link>
+      <pubDate>Wed, 13 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/project/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The New York Times, July 14, 2017, “Lower Fees Are Great, if You Actually Get Them,” M.P. Dunleavey</title>
+      <link>/talk2/2/</link>
+      <pubDate>Fri, 14 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/talk2/2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Barron’s, December 8, 2016, “Mutual Funds Milk Investors, CFA Says”</title>
-      <link>https://jyangyppp.github.io/talk2/4/</link>
+      <link>/talk2/4/</link>
       <pubDate>Thu, 08 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/4/</guid>
+      <guid>/talk2/4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Wall Street Journal, December 4, 2016, “Similar Mutual Funds–but Very Different Fees,” Micah Hauptman</title>
-      <link>https://jyangyppp.github.io/talk2/3/</link>
+      <link>/talk2/3/</link>
       <pubDate>Sun, 04 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk2/3/</guid>
+      <guid>/talk2/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Humans in Charge of Trading Robots: The First Experiment</title>
+      <link>/post/1/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:40 +0800</pubDate>
+      <guid>/post/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lower Fees Are Great, if You Actually Get Them</title>
+      <link>/project/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mutual Funds Milk Investors, CFA Says</title>
+      <link>/project/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RQ Innovative Efficiency and Firm Value</title>
+      <link>/post/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Similar Mutual Funds–but Very Different Fees</title>
+      <link>/project/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/project/4/</guid>
       <description></description>
     </item>
     

@@ -1,30 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Michael Cooper | Wenhao Yang</title>
-    <link>https://jyangyppp.github.io/author/michael-cooper/</link>
-      <atom:link href="https://jyangyppp.github.io/author/michael-cooper/index.xml" rel="self" type="application/rss+xml" />
+    <title>Michael Cooper | Wenhao Yang&#39;s Profile</title>
+    <link>/author/michael-cooper/</link>
+      <atom:link href="/author/michael-cooper/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Cooper</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Mon, 19 Oct 2020 23:10:11 +0800</lastBuildDate>
     <image>
-      <url>https://jyangyppp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Cooper</title>
-      <link>https://jyangyppp.github.io/author/michael-cooper/</link>
+      <link>/author/michael-cooper/</link>
     </image>
     
     <item>
-      <title>RQ Innovative Efficiency and Firm Value</title>
-      <link>https://jyangyppp.github.io/talk/9/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/9/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>The Persistence of Fee Dispersion among Mutual Funds</title>
-      <link>https://jyangyppp.github.io/talk/8/</link>
-      <pubDate>Wed, 03 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/8/</guid>
+      <link>/post/8/</link>
+      <pubDate>Mon, 19 Oct 2020 23:10:11 +0800</pubDate>
+      <guid>/post/8/</guid>
       <description></description>
     </item>
     

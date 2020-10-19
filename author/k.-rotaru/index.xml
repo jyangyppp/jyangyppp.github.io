@@ -1,22 +1,30 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>K. Rotaru | Wenhao Yang</title>
-    <link>https://jyangyppp.github.io/author/k.-rotaru/</link>
-      <atom:link href="https://jyangyppp.github.io/author/k.-rotaru/index.xml" rel="self" type="application/rss+xml" />
+    <title>K. Rotaru | Wenhao Yang&#39;s Profile</title>
+    <link>/author/k.-rotaru/</link>
+      <atom:link href="/author/k.-rotaru/index.xml" rel="self" type="application/rss+xml" />
     <description>K. Rotaru</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 03 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Copyright © 2020 All Rights Reserved.</copyright><lastBuildDate>Thu, 01 Jan 1970 08:33:40 +0800</lastBuildDate>
     <image>
-      <url>https://jyangyppp.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>K. Rotaru</title>
-      <link>https://jyangyppp.github.io/author/k.-rotaru/</link>
+      <link>/author/k.-rotaru/</link>
     </image>
     
     <item>
       <title>Humans in Charge of Trading Robots: The First Experiment</title>
-      <link>https://jyangyppp.github.io/talk/4/</link>
-      <pubDate>Fri, 03 Jul 2020 00:00:00 +0000</pubDate>
-      <guid>https://jyangyppp.github.io/talk/4/</guid>
+      <link>/post/1/</link>
+      <pubDate>Thu, 01 Jan 1970 08:33:40 +0800</pubDate>
+      <guid>/post/1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RQ Innovative Efficiency and Firm Value</title>
+      <link>/post/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/post/2/</guid>
       <description></description>
     </item>
     
